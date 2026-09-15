@@ -1,2 +1,2 @@
 # Mundo-Senai
-Criação de um jogo que relação com o Senai
+Criação de um jogo que tenha relação com o Senai
